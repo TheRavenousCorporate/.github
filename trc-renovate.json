@@ -16,7 +16,7 @@
 				"groupName": "Sapphire Dependencies"
 			},
 			{
-        "matchPackageNames": ["discord.js", "discord-api-types"],
+        			"matchPackageNames": ["discord.js", "discord-api-types"],
 				"matchPackagePatterns": ["@discordjs"],
 				"groupName": "Discord.JS Dependencies"
 			},
